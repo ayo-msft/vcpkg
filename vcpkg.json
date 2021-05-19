@@ -1,0 +1,11 @@
+{
+  "name": "zipper",
+  "version": "1.0.3",
+  "description": "C++ wrapper around minizip compression library",
+  "homepage": "https://github.com/sebastiandev/zipper",
+  "dependencies": [
+    {
+        "name": "zlib"
+    }
+  ]
+}
